@@ -1,0 +1,12 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+iloveyouboss,iloveyouboss,PercentileQuestion,13,0,2,0,3,0,3,0,2,0
+iloveyouboss,iloveyouboss,Bool,37,0,0,0,5,0,3,0,3,0
+iloveyouboss,iloveyouboss,BooleanQuestion,0,22,0,2,0,3,0,3,0,2
+iloveyouboss,iloveyouboss,Criterion,7,15,0,0,2,6,2,3,2,3
+iloveyouboss,iloveyouboss,Answer,40,21,0,0,7,6,4,3,4,3
+iloveyouboss,iloveyouboss,Profile,3,89,0,14,1,25,1,11,1,4
+iloveyouboss,iloveyouboss,Question,30,15,4,0,7,6,6,2,4,2
+iloveyouboss,iloveyouboss,Criteria,21,18,0,0,3,5,3,3,3,3
+iloveyouboss,iloveyouboss,ScoreCollection,27,0,0,0,6,0,3,0,3,0
+iloveyouboss,iloveyouboss,Weight,0,70,0,0,0,8,0,3,0,3
+iloveyouboss,iloveyouboss,Person,32,0,0,0,6,0,5,0,5,0
