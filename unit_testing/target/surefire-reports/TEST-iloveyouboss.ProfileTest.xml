@@ -5,7 +5,7 @@
     <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/lib"/>
     <property name="gopherProxySet" value="false"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/boyoonchoi/eclipse-workspace/unit_testing"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/boyoonchoi/git/unittesting/unit_testing"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="KR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/boyoonchoi/eclipse-workspace/unit_testing"/>
+    <property name="user.dir" value="/Users/boyoonchoi/git/unittesting/unit_testing"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.10+8-LTS-162"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
@@ -25,7 +25,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/boyoonchoi/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf17414542528637287288.tmp"/>
+    <property name="classworlds.conf" value="/Users/boyoonchoi/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3788107218667163787.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/boyoonchoi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="jdk.debug" value="release"/>
