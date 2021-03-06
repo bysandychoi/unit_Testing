@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="7" failures="0" name="iloveyouboss.ProfileTest" time="0.01" errors="0" skipped="0">
+<testsuite tests="7" failures="0" name="iloveyouboss.ProfileTest" time="0.012" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.10+8-LTS-162"/>
@@ -25,7 +25,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/boyoonchoi/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf13144592333998579808.tmp"/>
+    <property name="classworlds.conf" value="/Users/boyoonchoi/eclipse-workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf18001011036468211824.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/boyoonchoi/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="jdk.debug" value="release"/>
@@ -62,7 +62,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16|lx.astxsvc.com|*.lx.astxsvc.com"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="iloveyouboss.ProfileTest" name="scoreIsCriterionValueForSingleMatch" time="0.01"/>
+  <testcase classname="iloveyouboss.ProfileTest" name="scoreIsCriterionValueForSingleMatch" time="0.012"/>
   <testcase classname="iloveyouboss.ProfileTest" name="matchAnswersFalseWhenNoneOfMultipleCriteriaMatch" time="0"/>
   <testcase classname="iloveyouboss.ProfileTest" name="matchAnswersTrueForAnyDontCareCriteria" time="0"/>
   <testcase classname="iloveyouboss.ProfileTest" name="matchAnswersTrueWhenAnyOfMultipleCriteriaMatch" time="0"/>
