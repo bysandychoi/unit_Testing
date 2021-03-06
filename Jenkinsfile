@@ -9,7 +9,6 @@ pipeline {
 
     stage('build') {
       steps {
-        junit 'unit_testing/target/surefire-reports/*.xml'
         jacoco(execPattern: 'unit_testing/target/**.exec', classPattern: 'unit_testing/bin/iloveyouboss/**', sourcePattern: '**/src/iloveyouboss')
         sh 'man clean install'
       }
