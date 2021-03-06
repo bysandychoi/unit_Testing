@@ -18,7 +18,7 @@ pipeline {
       parallel {
         stage('Sonarqube test') {
           steps {
-            sh 'mvn sonar:sonar -Dsonar.host.url=http://<IP address>:9000 -Dlicense.skip=true'
+            waitForQualityGate true
           }
         }
 
