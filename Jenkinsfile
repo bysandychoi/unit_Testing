@@ -1,7 +1,7 @@
 pipeline {
   agent {
     node {
-      label 'label01'
+      label 'Lvel/beginner'
     }
 
   }
