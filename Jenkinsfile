@@ -1,10 +1,5 @@
 pipeline {
-  agent {
-    node {
-      label 'Lvel/beginner'
-    }
-
-  }
+  agent any
   stages {
     stage('source') {
       steps {
