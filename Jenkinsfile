@@ -14,31 +14,6 @@ pipeline {
       }
     }
 
-    stage('Testing stage') {
-      parallel {
-        stage('Sonarqube test') {
-          steps {
-            waitForQualityGate true
-          }
-        }
-
-        stage('Print Tester Credentials') {
-          steps {
-            sleep 10
-            echo 'The test is ${TESTER}'
-          }
-        }
-
-        stage('Print build number') {
-          steps {
-            echo 'This is build number ${Build_ID}'
-            sleep 20
-          }
-        }
-
-      }
-    }
-
     stage('Deploy prompt') {
       steps {
         input 'Deploy to Production?'
