@@ -4,7 +4,6 @@ pipeline {
     stage('build') {
       steps {
         echo 'Sarting Build Step'
-        sh 'mvn clean'
         echo 'Build step complete'
       }
     }
